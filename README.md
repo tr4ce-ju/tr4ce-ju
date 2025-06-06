@@ -4,15 +4,15 @@
 
 ## About me
 
-> **eBPF, 취약점 분석 등 다양한 분야에 있어서 관심을 가지고 공부하는 중**  
-> **침투테스트**
+> **eBPF, 취약점 분석, Penetration 등 다양한 분야에 있어서 관심을 가지고 공부하는 중** 
+> **드넓은 "보안"이라는 분야에서 한없이 배울 수 있음에 감사하며 끊임없이 나아가기 위해 정진하는 중**
 
 ---
 
 
 ### 이름: 주진호(tr4ce)
 
-### 학력: 성공회대학교 소프트웨어공학/정보통신공학 학사 학생
+### 학력: 성공회대학교 소프트웨어공학/정보통신공학 학사
 
 ### 소속: 라온시큐어 핵심연구팀
 
@@ -28,7 +28,9 @@
 
 ## projects & reports & etc
 
-Identifying concurrency issues in JS engines(2024.10 ~ 2025.02)
+New project in progress....
+
+Identifying concurrency issues in JS engines - team cncrnc8 member (2024.10 ~ 2025.02)
 https://dothack.io/session/The%20challenge%20of%20tight%20window
 
 Synology SRM bug bounty - team OHiC (2024.02 ~ 2024.06)
