@@ -12,11 +12,6 @@
 
 ---
 
-### 🛠 Tech Stack
-<img src="https://img.shields.io/badge/C-1A1A1A?logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/eBPF-FCC624?logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/1Day_Analysis-1A1A1A?logo=hackaday&logoColor=white"/>
-
----
-
 ### 💼 Experience
 | Period | Organization | Role |
 |--------|--------------|------|
