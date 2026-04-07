@@ -49,12 +49,16 @@
 - CVE-2024-13987
 - CVE-2025-10466
 
+(n8n (auth-bypass))
+- CVE-2026-33663
+
 **Advisories:**
 - [Synology SA-24:16](https://www.synology.com/en-global/security/advisory/Synology_SA_24_16) | [SA-25:10](https://www.synology.com/en-global/security/advisory/Synology_SA_25_10) | [SA-25:11](https://www.synology.com/en-global/security/advisory/Synology_SA_25_11) | [SA-24:09](https://www.synology.com/en-global/security/advisory/Synology_SA_24_09)
 
 **Contributions:**
 - [Linux Kernel Commit](https://github.com/torvalds/linux/commit/af82425c6a2d2f347c79b63ce74fca6dc6be157f)
-
+- [n8n](https://github.com/n8n-io/n8n/security/advisories/GHSA-q4fm-pjq6-m63g)
+- [n8n](https://github.com/n8n-io/n8n/security/advisories/GHSA-m63j-689w-3j35)
 ---
 
 ### 🎤 Speaker
